@@ -4,13 +4,13 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 22839370 # integer value, dont use ""
-    API_HASH = "7fb99db07ddecec3e7a1f02da9730c33"
+    API_ID = 27094161 # integer value, dont use ""
+    API_HASH = "39477b23f5e6abea95fe0f92b7f00de0"
     BOT_TOKEN = "6287631826:AAH7NyVTHvZH3L7Pj-oV1Vt3BeRgkMPRUD0"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 1929914544 # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    SUPPORT_CHAT = "LovelyXSupport"  # Your own group for support, do not add the @
+    OWNER_ID = 1513565142 # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    SUPPORT_CHAT = "pokemonXgrabbers" # Your own group for support, do not add the @
     START_IMG = "https://te.legra.ph/file/59d555afd67ff0d9bd224.mp4"
-    ADMIN = 1929914544
+    ADMIN = 7190881436
     PM_IMG = ""
     EVENT_LOGS = ()  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
     MONGO_DB_URI= ""
