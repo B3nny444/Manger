@@ -21,7 +21,7 @@ class Config(object):
     )
     TIME_API_KEY = "5LB4TAKPEKZ0"  # Get your API key from https://timezonedb.com/api
     #Database 
-    DB_URL ="mongodb+srv://DarkLightning2008:Darkdeebu2008@cluster1.ut0l8mm.mongodb.net/?retryWrites=true&w=majority"
+    DB_URL = "postgresql://anony:<ENTER-SQL-USER-PASSWORD>@riled-rooster-5649.7s5.aws-ap-south-1.cockroachlabs.cloud:26257/Cluster1?sslmode=verify-full"
     DB_NAME = "Cluster1"
 
     # Optional fields
