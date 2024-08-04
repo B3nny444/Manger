@@ -1,5 +1,5 @@
 {
-      "name": "Kakashi Hatake",
+      "name": "B3nny>444 ",
       "description": "Telegram Group Management Bot.",
       "logo": "https://te.legra.ph/file/05506d7dc6c995426b93d.jpg",
       "keywords": [
@@ -22,12 +22,12 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": 27094161
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "39477b23f5e6abea95fe0f92b7f00de0"
       },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
@@ -50,12 +50,12 @@
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": ""
+         "value": "curl --create-dirs -o $HOME/.postgresql/root.crt 'https://cockroachlabs.cloud/clusters/e137cea9-2bb2-4f64-afe4-6fa0a7090e50/cert"
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2145093972"
+         "value": 1513565142
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
@@ -70,12 +70,13 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit Example - The_support_chat.",
          "required": true,
-         "value": "LovelyXSupport"
+         "value": "pokemonXgrabbers"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": ""
+         "value": "7008178074:AAHRxTvWF_HBlQ-FXzg5gnYhXzHpmLWEj5A"
+
       }
    }
 }
