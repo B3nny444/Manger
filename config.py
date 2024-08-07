@@ -6,7 +6,7 @@ class Config(object):
 
     API_ID = 27094161 # integer value, dont use ""
     API_HASH = "39477b23f5e6abea95fe0f92b7f00de0"
-    BOT_TOKEN = "6287631826:AAH7NyVTHvZH3L7Pj-oV1Vt3BeRgkMPRUD0"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    BOT_TOKEN = "7008178074:AAHRxTvWF_HBlQ-FXzg5gnYhXzHpmLWEj5A" # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1513565142 # If you dont know, run the bot and do /id in your private chat with it, also an integer
     SUPPORT_CHAT = "pokemonXgrabbers" # Your own group for support, do not add the @
     START_IMG = "https://te.legra.ph/file/59d555afd67ff0d9bd224.mp4"
